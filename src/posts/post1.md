@@ -12,10 +12,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <div class="container mt-4">
     <div class="row">
         <div class="col-md-6">
-            <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Image 1">
+            <img src="https://placehold.co/800x1000.jpg" class="img-fluid" alt="Image 1">
         </div>
         <div class="col-md-6">
-            <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Image 2">
+            <img src="https://placehold.co/800x1000.jpg" class="img-fluid" alt="Image 2">
         </div>
     </div>
 </div>
