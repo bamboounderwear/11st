@@ -10,10 +10,10 @@ tags:
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
     <div class="row">
-        <div class="col-md-6 mt-4">
+        <div class="col-md-6 mt-3">
             <img src="https://placehold.co/800x1000.jpg" class="img-fluid" alt="Image 1">
         </div>
-        <div class="col-md-6 mt-4">
+        <div class="col-md-6 mt-3">
             <img src="https://placehold.co/800x1000.jpg" class="img-fluid" alt="Image 2">
         </div>
     </div>
