@@ -1,5 +1,9 @@
 body {
   letter-spacing: 0rem;
+  --bs-body-bg: #121212;  /* Dark background */
+  --bs-body-color: #ffffff; /* Light text */
+  --bs-primary: #4a90e2;  /* Change primary color */
+  --bs-secondary: #bbbbbb;
 }
 
 .link-fancy {
